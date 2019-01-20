@@ -9,10 +9,10 @@ html {
 
 .prof-box{
 	width: 400px;
-	height: 500px;
+	height: 400px;
 	background-color: rgb(0,0,0,0,4);
 	padding: 40px;
-	color: white;
+	color: #674343;
 	margin: 0 auto;
 	margin-top: 100px;
 	text-align: center;
@@ -21,7 +21,7 @@ html {
 .prof-pic{
 	border-radius: 50%;
 	height: 250px;
-	width: 200px;
+	width: 250px;
 }
 
 h1{
